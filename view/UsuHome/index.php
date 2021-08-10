@@ -20,13 +20,13 @@
         </a><!-- br-menu-link -->
         <a href="mailbox.html" class="br-menu-link">
           <div class="br-menu-item">
-            <i class="menu-item-icon icon ion-ios-email-outline tx-24"></i>
+            <i class="menu-item-icon icon ion-ios-bookmarks-outline tx-20"></i>
             <span class="menu-item-label">Mis cursos</span>
           </div><!-- menu-item -->
         </a><!-- br-menu-link -->
         <a href="mailbox.html" class="br-menu-link">
           <div class="br-menu-item">
-            <i class="menu-item-icon icon ion-ios-email-outline tx-24"></i>
+            <i class="menu-item-icon icon ion-ios-gear-outline tx-24"></i>
             <span class="menu-item-label">Perfil</span>
           </div><!-- menu-item -->
         </a><!-- br-menu-link -->
